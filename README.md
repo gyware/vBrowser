@@ -8,5 +8,7 @@
 
 A simple browser script written in VBScript using mshta.
 
+## Setup
+Just download the source code .zip and run the .vbs or .exe. No installation needed.
 
 *Easy to use, easy to understand.*
