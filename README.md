@@ -1,7 +1,7 @@
 # vBrowser
 
 [![AppVeyor](https://img.shields.io/badge/Licence-MIT-orange)](LICENSE)
-[![AppVeyor](https://img.shields.io/badge/Version-v0.1-informational)](https://github.com/mahtab2003/MOFH-R/releases/latest)
+[![AppVeyor](https://img.shields.io/badge/Version-v0.1-informational)](https://github.com/starkxsoftware/vBrowser/archive/refs/heads/main.zip)
 ![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Language-VBScript-red)
 
