@@ -8,6 +8,6 @@
 A simple browser script written in VBScript using mshta.
 
 ## Setup
-Just download, extract and run the .vbs or .exe. No installation needed.
+Just download, extract and run vBrowser.vbs. No installation needed.
 
 *Easy to use, easy to understand.*
