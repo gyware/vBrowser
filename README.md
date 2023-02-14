@@ -5,7 +5,7 @@
 ![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Language-VBScript-red)
 
-A simple browser script written in VBScript using MSHTA.
+A simple browser written in VBScript utilising MSHTA.
 
 ## Setup
 Just download, extract and run vBrowser.vbs. No installation needed.
